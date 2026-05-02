@@ -1,0 +1,25 @@
+{
+  "name": "antigravity-mentor-mode",
+  "version": "1.0.0",
+  "description": "Sistema de aprendizado ativo (Mentor Mode) para o AI Coding Assistant Antigravity.",
+  "main": "bin/cli.js",
+  "bin": {
+    "mentor-mode": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antigravity",
+    "mentor",
+    "learning",
+    "ai",
+    "coding-assistant"
+  ],
+  "author": "Wellison",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.0.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "antigravity-mentor-mode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sistema de aprendizado ativo (Mentor Mode) para o AI Coding Assistant Antigravity.",
   "main": "bin/cli.js",
   "bin": {
@@ -13,8 +13,7 @@
     "antigravity",
     "mentor",
     "learning",
-    "ai",
-    "coding-assistant"
+    "ai"
   ],
   "author": "Wellison",
   "license": "MIT",
